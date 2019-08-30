@@ -46,4 +46,8 @@
     ul li i {
         color: white;
     }
+
+    .home_text {
+        padding-top: 150px;
+    }
 }
